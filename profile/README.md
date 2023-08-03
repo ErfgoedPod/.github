@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 body {
     /* background-image: url("./nde.jpg");*/
     background-color: #FFFFFF;
@@ -7,7 +7,7 @@ body {
     background-repeat:none;
     font-family: Roboto, Helvetica, Arial, sans-serif
 }
-</style>
+</style> -->
 
 # Project ErfgoedPod
 
@@ -33,7 +33,7 @@ The following specifications and documents resulted from the ErfgoedPod project:
 | ------- | ----------|
 | [Use cases](https://erfgoedpod.github.io/usecases/) | Inventory of all digital heritage use cases developed in the project.   |
 | [Infrastructure](https://erfgoedpod.github.io/common-setups/) | An study on common digital infrastruture setups in the cultural heritage domain.  |
-| [Event Notifications](https://www.eventnotifications.net/) | A specification thet details a profile for using Linked Data Notifications [LDN] with ActivityStreams2 [AS2] payloads in decentralized value-adding networks. |
+| [Event Notifications](https://www.eventnotifications.net/) | A specification thet details a profile for using Linked Data Notifications with ActivityStreams2 payloads in decentralized value-adding networks. |
 | [Architecture](https://erfgoedpod.github.io/architecture/) | Details on the technical implementation of the use cases. |
 | [Terminology and specification overview](https://mellonscholarlycommunication.github.io/spec-overview/) | The overview of all documents and terminology that were conceived in the ResearchPod project and used by the ErfgoedPod project.  |
 
